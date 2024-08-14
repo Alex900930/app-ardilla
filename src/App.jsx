@@ -41,8 +41,8 @@ function App() {
           </div>
         </div>
         {/* Orejas de la Ardilla */}
-        <div className="bg-yellow-700 w-2 h-4 mt-24 absolute ml-[152px] rounded-l-[42px]"></div>
-        <div className="bg-yellow-700 w-2 h-4 absolute ml-[197px] mt-24 rounded-r-[42px]"></div>
+        <div className="bg-yellow-700 w-2 h-4 mt-24 absolute ml-[70px] rounded-l-[42px]"></div>
+        <div className="bg-yellow-700 w-2 h-4 absolute ml-[207px] mt-24 rounded-r-[42px]"></div>
         {/* Nuez */}
         <div className="bg-yellow-700 w-3 rounded-l-full h-2 absolute mt-[200px] ml-[16rem]"></div>
         <div className="bg-yellow-900 w-1.5 rounded-r-full h-[10px] absolute mt-[199px] ml-[265px]"></div>
